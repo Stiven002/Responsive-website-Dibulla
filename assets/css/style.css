@@ -865,3 +865,9 @@ input {
         margin-top: 0rem;
     }
 }
+
+@media screen and (max-height: 630px){
+    .home__container{
+        margin-top: 1rem;
+    }
+}
